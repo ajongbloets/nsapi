@@ -1,4 +1,5 @@
 XPATH_STATIONS <- c(
+  code.uic = "UICCode",
   code = "Code",
   type = "Type",
   country = "Land",

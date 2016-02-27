@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ 
+
+<Storingen>
+	<Ongepland>
+		
+			<Storing>
+				<id>prio-79827</id>
+			    
+					<Traject>Zwolle-Emmen</Traject>
+			    
+				
+					<Reden>herstelwerkzaamheden</Reden>
+			    
+				
+				
+					<Bericht><![CDATA[Tussen Zwolle en Ommen rijden geen treinen door herstelwerkzaamheden.Er rijden bussen tussen Zwolle en Ommen.Houdt u rekening met een extra reistijd van 30 - 60 min.De verstoring is naar verwachting 28 februari rond 5:00 uur verholpen.Reizigers van Emmen naar Amersfoort kunnen omreizen via Almelo.]]></Bericht>
+			    
+				
+					<Datum>2016-02-26T23:29:00+0100</Datum>
+			    
+				
+			</Storing>
+		
+	</Ongepland>
+	<Gepland>
+		
+			<Storing>
+				<id>2016_zl_wd_4jan_30okt</id>
+			    
+					<Traject>Zwolle-Wierden</Traject>
+			    
+			    
+					<Periode>maandag 4 januari tot en met zondag 30 oktober, dagelijks vanaf 20.30 uur</Periode>
+			    
+			    
+			    
+					<Advies>U kunt gebruikmaken van de omreisroute of de bussen doorgaande reizigers tussen Zwolle en Wierden adviseren wij om te reizen via Deventer tussen Zwolle en Wierden rijden bussen in Heino vertrekt de bus vanaf de OV-halte aan de Zwolseweg; van/naar het station rijdt een beltaxi</Advies>
+			    
+			    
+					<Bericht><![CDATA[
+        <p>
+            <b>Wanneer: maandag 4 januari tot en met zondag 30 oktober, dagelijks vanaf 20.30 uur</b>
+            <br/>
+            <b>Oorzaak: door werkzaamheden</b>
+            <br/>
+            <b>Advies: U kunt gebruikmaken van de omreisroute of de bussen</b>
+            <br/>	doorgaande reizigers tussen Zwolle en Wierden adviseren wij om te reizen via Deventer<br/>	tussen Zwolle en Wierden rijden bussen<br/>	in Heino vertrekt de bus vanaf de OV-halte aan de Zwolseweg; van/naar het station rijdt een beltaxi<br/><br/><b>Extra Reistijd: een kwartier tot een half uur</b><br/></p>
+    ]]></Bericht>
+			    
+			    
+					<Oorzaak>door werkzaamheden</Oorzaak>
+			    
+			    
+					<Vertraging>een kwartier tot een half uur</Vertraging>
+			    
+			</Storing>
+		
+			<Storing>
+				<id>2016_asd_rtd_27_28feb</id>
+			    
+					<Traject>Amsterdam C-Rotterdam C Intercity direct</Traject>
+			    
+			    
+					<Periode>zaterdag 27 en zondag 28 februari</Periode>
+			    
+			    
+			    
+					<Advies>U kunt gebruikmaken van de overige binnenlandse treinen Intercity direct rijdt niet tussen Amsterdam Centraal en Rotterdam Centraal; maak gebruik van de Intercity's via Leiden en Den Haag HS</Advies>
+			    
+			    
+					<Bericht><![CDATA[
+        <p>
+            <b>Wanneer: zaterdag 27 en zondag 28 februari</b>
+            <br/>
+            <b>Oorzaak: door werkzaamheden</b>
+            <br/>
+            <b>Advies: U kunt gebruikmaken van de overige binnenlandse treinen</b>
+            <br/>	Intercity direct rijdt niet tussen Amsterdam Centraal en Rotterdam Centraal; maak gebruik van de Intercity's via Leiden en Den Haag HS<br/><br/><b>Extra Reistijd: een half uur</b><br/></p>
+    ]]></Bericht>
+			    
+			    
+					<Oorzaak>door werkzaamheden</Oorzaak>
+			    
+			    
+					<Vertraging>een half uur</Vertraging>
+			    
+			</Storing>
+		
+			<Storing>
+				<id>2016_vl_hamm_27_28feb</id>
+			    
+					<Traject>Venlo-Hamm</Traject>
+			    
+			    
+					<Periode>zaterdag 27 en zondag 28 februari</Periode>
+			    
+			    
+			    
+					<Advies>U kunt gebruikmaken van de bus er rijden geen treinen tussen Düsseldorf Hbf en Wuppertal Hbf; er rijden bussen</Advies>
+			    
+			    
+					<Bericht><![CDATA[
+        <p>
+            <b>Wanneer: zaterdag 27 en zondag 28 februari</b>
+            <br/>
+            <b>Oorzaak: door werkzaamheden</b>
+            <br/>
+            <b>Advies: U kunt gebruikmaken van de bus</b>
+            <br/>	er rijden geen treinen tussen Düsseldorf Hbf en Wuppertal Hbf; er rijden bussen<br/><br/><b>Extra Reistijd: een half uur</b><br/></p>
+    ]]></Bericht>
+			    
+			    
+					<Oorzaak>door werkzaamheden</Oorzaak>
+			    
+			    
+					<Vertraging>een half uur</Vertraging>
+			    
+			</Storing>
+		
+			<Storing>
+				<id>2016_THALYS_asd_paris_27_28feb</id>
+			    
+					<Traject>Amsterdam C-Brussel-Zuid/Midi-Lille Europe/Paris-Nord</Traject>
+			    
+			    
+					<Periode>zaterdag 27 en zondag 28 februari</Periode>
+			    
+			    
+			    
+					<Advies>Ga eerder op reis Thalys naar en uit Frankrijk/België wordt omgeleid en stopt niet op Schiphol Airport; maak naar/van Schiphol Airport gebruik van de overige treinen</Advies>
+			    
+			    
+					<Bericht><![CDATA[
+        <p>
+            <b>Wanneer: zaterdag 27 en zondag 28 februari</b>
+            <br/>
+            <b>Oorzaak: door werkzaamheden</b>
+            <br/>
+            <b>Advies: Ga eerder op reis</b>
+            <br/>	Thalys naar en uit Frankrijk/België wordt omgeleid en stopt niet op Schiphol Airport; maak naar/van Schiphol Airport gebruik van de overige treinen<br/><br/><b>Extra Reistijd: een half uur tot een uur</b><br/></p>
+    ]]></Bericht>
+			    
+			    
+					<Oorzaak>door werkzaamheden</Oorzaak>
+			    
+			    
+					<Vertraging>een half uur tot een uur</Vertraging>
+			    
+			</Storing>
+		
+	</Gepland>
+</Storingen>

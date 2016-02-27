@@ -7,9 +7,9 @@ Description: Package to load data from the Open Data API of Nederlandse
 Depends:
     R (>= 3.2.3)
 Imports:
-    dplyr (>= 0.4.3.9),
     httr (>= 1.1.0),
-    xml2 (>= 0.1.2)
+    xml2 (>= 0.1.2),
+    curl
 Suggests:
     testthat
 License: GPL (>= 3)

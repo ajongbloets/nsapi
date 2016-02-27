@@ -13,8 +13,9 @@ xml_cache <- new.env()
   # set default options (if not already set)
   op <- options()
   op.nsapi <- list(
-    nsapi.expire.after = 20, # expire after 20 ...
-    nsapi.expire.units = "mins" # .. minutes
+    nsapi.cache = TRUE,
+    nsapi.cache.expire.after = 20, # expire after 20 ...
+    nsapi.cache.expire.units = "mins" # .. minutes
   )
   toset <- !(names(op.nsapi) %in% names(op))
   if(any(toset)) options(op.nsapi[toset])

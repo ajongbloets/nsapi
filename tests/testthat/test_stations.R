@@ -23,4 +23,9 @@ test_that("Download stations data", {
 
 test_that("Parse Stations XML", {
   # test parse.stations
+  xml.data <- xml2::read_xml("stations_small.xml")
+  df.data <- parse.stations(xml.data)
+  expect_equal(nrow(df.data), 3)
+  expect_equal(df.data[1, "code"], "HT")
+  expect_equal(df.data[1, "type"], "knooppuntIntercitystation")
 })

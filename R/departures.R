@@ -1,3 +1,4 @@
+# Define Xpath - Column relation
 XPATHS_DEPARTURES <- c(
   train.id = "RitNummer",
   departure.time = "VertrekTijd",
@@ -13,7 +14,11 @@ XPATHS_DEPARTURES <- c(
   remarkts = "Opmerkingen"
 )
 
-get.departures <- function( station, ...) {
+TYPES_DEPARTURES <- c(
+  train.id = 
+)
+
+get.departures <- function(station, ...) {
   xml.data <- download.departures(station, ...)
   return( parse.departures(xml.data) )
 }
@@ -26,8 +31,8 @@ parse.departures <- function( xml.data ) {
   return(
     as.data.frame.xml(
       xml.data,
-      XPathsToColumns = XPATHS_DEPARTURES,
-      XPathRoot = "ActueleVertrekTijden/VertrekkendeTrein"
+      columns_xpaths = XPATHS_DEPARTURES,
+      root_xpath = "ActueleVertrekTijden/VertrekkendeTrein"
     )
   )
 }
