@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 
 # NSAPI
 
-R bindings for the [Nederlandse Spoorwegen API][http://ns.nl/reisinformatie/ns-api] (NS, Dutch railways).
+R bindings for the [Nederlandse Spoorwegen API](http://ns.nl/reisinformatie/ns-api) (NS, Dutch railways).
 
 Package support caching of the made requests in-memory (enabled by default).
 ## Installation
@@ -34,7 +34,7 @@ devtools::install_github("jjongbloets/nsapi")
 
 ## Usage
 
-**In order to use this package you need a [NS API Account][https://www.ns.nl/ews-aanvraagformulier/] (Free)**
+**In order to use this package you need a [NS API Account](https://www.ns.nl/ews-aanvraagformulier/) (Free)**
 
 The NS provides API's to different datasets:
 
