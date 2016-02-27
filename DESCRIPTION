@@ -1,8 +1,17 @@
 Package: nsapi
-Title: What the Package Does (one line, title case)
+Title: NS API Package
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-Depends: R (>= 3.2.3)
-License: What license is it under?
+Authors@R: person("Joeri", "Jongbloets", email = "joeti@jongbloets.net", role = c("aut", "cre"))
+Description: Package to load data from the Open Data API of Nederlandse
+    Spoorwegen (NS, Dutch Railways)
+Depends:
+    R (>= 3.2.3)
+Imports:
+    dplyr (>= 0.4.3.9),
+    httr (>= 1.1.0),
+    xml2 (>= 0.1.2)
+Suggests:
+    testthat
+License: GPL (>= 3)
 LazyData: true
+RoxygenNote: 5.0.1
