@@ -15,7 +15,7 @@ XPATHS_DEPARTURES <- c(
 )
 
 TYPES_DEPARTURES <- c(
-  train.id = 
+  train.id = as.integer
 )
 
 get.departures <- function(station, ...) {
